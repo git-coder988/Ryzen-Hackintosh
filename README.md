@@ -1,7 +1,7 @@
 # Ryzen-Hackintosh
 Ryzen-Hackintosh
 
-AMD Ryzen Hackintosh w/OpenCore bootloader (version 0.5.2)
+AMD Ryzen Hackintosh w/OpenCore bootloader
 
 Motherboard: Gigabyte B450 Aorus M
 
