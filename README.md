@@ -20,5 +20,5 @@ Follow this guide and use my config.plist as a starting point.
 https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/amd-config.plist/amd-config
 
 1.  Download the zip file
-2.  Edit config.plis.  Update the PlatformInfo section and enter your MLB, Serial #, and UUID
+2.  Edit config.plist.  Update the PlatformInfo section and enter your MLB, Serial #, and UUID
 3.  Create your bootable USB
